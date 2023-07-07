@@ -119,9 +119,9 @@ comments:
   card_post_count: false # Display comment count in Home Page
 
 waline:
-  serverURL: waline.yourdomain.com    # 填入刚刚得到的后端 URL（必填,根据实际情况填写你自己的域名）
+  serverURL: https://hexo-web-two.vercel.app  # 填入刚刚得到的后端 URL（必填,根据实际情况填写你自己的域名）
   option:
-    locale: {
+    local: {
       nick: '昵称',
       mail: '邮箱',
       link: '你的网站',
